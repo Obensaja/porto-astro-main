@@ -1,10 +1,10 @@
 ---
-title: Mcdonalds
+title: Home Work
 publishDate: 2022-07-14 00:00:00
-img: /assets/mcd.png
-img_alt: Mcdonalds
+img: /assets/miku.jpg
+img_alt: Home Work
 description: |
-  McD's fanatic.
+  Web3.
 tags:
-  - Customer
+  - Testers
 ---
